@@ -27,10 +27,12 @@ leetcode to github
 | [0327-count-of-range-sum](https://github.com/JotiThakur88/Binary-search/tree/main/0327-count-of-range-sum/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/JotiThakur88/Binary-search/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/JotiThakur88/Binary-search/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
+| [0441-arranging-coins](https://github.com/JotiThakur88/Binary-search/tree/main/0441-arranging-coins/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/JotiThakur88/Binary-search/tree/main/0069-sqrtx/) | Easy |
+| [0441-arranging-coins](https://github.com/JotiThakur88/Binary-search/tree/main/0441-arranging-coins/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
