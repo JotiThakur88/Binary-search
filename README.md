@@ -18,8 +18,21 @@ leetcode to github
 | [0069-sqrtx](https://github.com/JotiThakur88/Binary-search/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JotiThakur88/Binary-search/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JotiThakur88/Binary-search/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0222-count-complete-tree-nodes](https://github.com/JotiThakur88/Binary-search/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/JotiThakur88/Binary-search/tree/main/0069-sqrtx/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/JotiThakur88/Binary-search/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/JotiThakur88/Binary-search/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/JotiThakur88/Binary-search/tree/main/0222-count-complete-tree-nodes/) | Easy |
 <!---LeetCode Topics End-->
