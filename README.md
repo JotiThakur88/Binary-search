@@ -9,6 +9,7 @@ leetcode to github
 | [0033-search-in-rotated-sorted-array](https://github.com/JotiThakur88/Binary-search/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JotiThakur88/Binary-search/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JotiThakur88/Binary-search/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JotiThakur88/Binary-search/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -16,6 +17,7 @@ leetcode to github
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JotiThakur88/Binary-search/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/JotiThakur88/Binary-search/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JotiThakur88/Binary-search/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JotiThakur88/Binary-search/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
