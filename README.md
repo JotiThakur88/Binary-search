@@ -17,6 +17,7 @@ leetcode to github
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JotiThakur88/Binary-search/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1027-longest-arithmetic-subsequence](https://github.com/JotiThakur88/Binary-search/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/JotiThakur88/Binary-search/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JotiThakur88/Binary-search/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ leetcode to github
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JotiThakur88/Binary-search/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1027-longest-arithmetic-subsequence](https://github.com/JotiThakur88/Binary-search/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/JotiThakur88/Binary-search/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JotiThakur88/Binary-search/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +89,7 @@ leetcode to github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/JotiThakur88/Binary-search/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JotiThakur88/Binary-search/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,4 +111,12 @@ leetcode to github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/JotiThakur88/Binary-search/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JotiThakur88/Binary-search/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JotiThakur88/Binary-search/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 <!---LeetCode Topics End-->
