@@ -15,6 +15,7 @@ leetcode to github
 | [0349-intersection-of-two-arrays](https://github.com/JotiThakur88/Binary-search/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/JotiThakur88/Binary-search/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JotiThakur88/Binary-search/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1027-longest-arithmetic-subsequence](https://github.com/JotiThakur88/Binary-search/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ leetcode to github
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/JotiThakur88/Binary-search/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0441-arranging-coins](https://github.com/JotiThakur88/Binary-search/tree/main/0441-arranging-coins/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JotiThakur88/Binary-search/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1027-longest-arithmetic-subsequence](https://github.com/JotiThakur88/Binary-search/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +79,7 @@ leetcode to github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/JotiThakur88/Binary-search/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1027-longest-arithmetic-subsequence](https://github.com/JotiThakur88/Binary-search/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +96,8 @@ leetcode to github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/JotiThakur88/Binary-search/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1027-longest-arithmetic-subsequence](https://github.com/JotiThakur88/Binary-search/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 <!---LeetCode Topics End-->
