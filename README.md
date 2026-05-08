@@ -13,6 +13,7 @@ leetcode to github
 | [0315-count-of-smaller-numbers-after-self](https://github.com/JotiThakur88/Binary-search/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/JotiThakur88/Binary-search/tree/main/0327-count-of-range-sum/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/JotiThakur88/Binary-search/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/JotiThakur88/Binary-search/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ leetcode to github
 | [0315-count-of-smaller-numbers-after-self](https://github.com/JotiThakur88/Binary-search/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/JotiThakur88/Binary-search/tree/main/0327-count-of-range-sum/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/JotiThakur88/Binary-search/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/JotiThakur88/Binary-search/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +68,7 @@ leetcode to github
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/JotiThakur88/Binary-search/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/JotiThakur88/Binary-search/tree/main/0327-count-of-range-sum/) | Hard |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/JotiThakur88/Binary-search/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +81,12 @@ leetcode to github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/JotiThakur88/Binary-search/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/JotiThakur88/Binary-search/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/JotiThakur88/Binary-search/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 <!---LeetCode Topics End-->
