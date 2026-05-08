@@ -11,6 +11,7 @@ leetcode to github
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JotiThakur88/Binary-search/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JotiThakur88/Binary-search/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/JotiThakur88/Binary-search/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/JotiThakur88/Binary-search/tree/main/0327-count-of-range-sum/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@ leetcode to github
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JotiThakur88/Binary-search/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0222-count-complete-tree-nodes](https://github.com/JotiThakur88/Binary-search/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/JotiThakur88/Binary-search/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/JotiThakur88/Binary-search/tree/main/0327-count-of-range-sum/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,20 +43,25 @@ leetcode to github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/JotiThakur88/Binary-search/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/JotiThakur88/Binary-search/tree/main/0327-count-of-range-sum/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/JotiThakur88/Binary-search/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/JotiThakur88/Binary-search/tree/main/0327-count-of-range-sum/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/JotiThakur88/Binary-search/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/JotiThakur88/Binary-search/tree/main/0327-count-of-range-sum/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/JotiThakur88/Binary-search/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/JotiThakur88/Binary-search/tree/main/0327-count-of-range-sum/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/JotiThakur88/Binary-search/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/JotiThakur88/Binary-search/tree/main/0327-count-of-range-sum/) | Hard |
 <!---LeetCode Topics End-->
